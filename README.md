@@ -1,5 +1,9 @@
 # SMB214-Malak-KAYS
 
+id Cnam: 3527 p
+nom complet: Malak Kays
+
+mon sujet est sur les services web REST, 
 Le plan prévu est:
 
 1. définition des services web
