@@ -1,8 +1,8 @@
 # SMB214-Malak-KAYS
 
-id Cnam: 3527 p
+id Cnam: 9959 f
 
-nom complet: Malak Kays
+nom complet: Malak Ali Kays
 
 mon sujet est sur les services web REST, 
 Le plan prévu est:
