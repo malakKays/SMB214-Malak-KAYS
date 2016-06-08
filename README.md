@@ -2,7 +2,7 @@
 
 id Cnam: 9959 f
 
-nom complet: Malak Ali Kays
+nom complet: Malak Ali KAYS
 
 mon sujet est sur les services web REST, 
 Le plan prévu est:
