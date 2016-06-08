@@ -5,7 +5,7 @@ id Cnam: 9959 f
 nom complet: Malak Ali KAYS
 
 mon sujet est sur les services web REST, 
-Le plan prévu est:
+Le plan est:
 
 1. définition des services web
 2. un mot sur soap et comparaison avec REST
